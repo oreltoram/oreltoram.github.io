@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oreltoram.github.io/sitemap
+Sitemap: https://oreltoram.github.io/app/sitemap
+Sitemap: https://oreltoram.github.io/assets/sitemap
+Sitemap: https://oreltoram.github.io/css/sitemap
+Sitemap: https://oreltoram.github.io/includes/sitemap
+Sitemap: https://oreltoram.github.io/item/sitemap
+Sitemap: https://oreltoram.github.io/src/sitemap
